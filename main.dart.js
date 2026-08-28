@@ -86229,7 +86229,7 @@ var $async$x4=A.U(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:q=3
 if(a)o.ad(new A.alY(o))
 n=Date.now()
-m=A.eQ("https://api.allorigins.win/raw?url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=0&output=csv&_="+A.k(n))
+m=A.eQ("https://corsproxy.io/?https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=0&output=csv&_="+A.k(n))
 h=t.N
 s=6
 return A.P(A.avp(m,A.ai(["Cache-Control","no-cache, no-store, must-revalidate","Pragma","no-cache","Expires","0"],h,h)),$async$x4)
@@ -86258,7 +86258,7 @@ acp(a){var s=0,r=A.T(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g
 var $async$x3=A.U(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:q=3
 n=Date.now()
-m=A.eQ("https://api.allorigins.win/raw?url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=831447727&single=true&output=csv&_="+A.k(n))
+m=A.eQ("https://corsproxy.io/?https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=831447727&single=true&output=csv&_="+A.k(n))
 i=t.N
 s=6
 return A.P(A.avp(m,A.ai(["Cache-Control","no-cache, no-store, must-revalidate","Pragma","no-cache","Expires","0"],i,i)),$async$x3)
@@ -86284,7 +86284,7 @@ wZ(){var s=0,r=A.T(t.H),q=1,p=[],o=this,n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$wZ=A.U(function(a,a0){if(a===1){p.push(a0)
 s=q}for(;;)switch(s){case 0:q=3
 n=Date.now()
-m=A.eQ("https://api.allorigins.win/raw?url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=1789719190&single=true&output=csv&_="+A.k(n))
+m=A.eQ("https://corsproxy.io/?https://docs.google.com/spreadsheets/d/e/2PACX-1vQOEYcmvaRs9GsfVetzTAaiCB958xrcgsKyR8GX3o8m1O7fniGD0fFZBAJ0hd4DMwndMEeazq9nRFxc/pub?gid=1789719190&single=true&output=csv&_="+A.k(n))
 f=t.N
 s=6
 return A.P(A.avp(m,A.ai(["Cache-Control","no-cache, no-store, must-revalidate","Pragma","no-cache","Expires","0"],f,f)),$async$wZ)
