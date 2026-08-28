@@ -86367,7 +86367,7 @@ p=5
 m=0,g=a4+" (\u043f\u043e\u0434\u0432\u0435\u0441 ",d=t.N
 case 8:if(!(m<a5)){s=10
 break}l=g+A.k(m+1)+")"
-c=A.eQ("https://script.google.com/macros/s/AKfycby2-PaY8pjmVBpthwkC7U1Gpx4S1zQhHYPJoQsIhNRHKw5Kx7POxqjgqqm5KxKKxXVX/exec")
+c=A.eQ("https://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycby2-PaY8pjmVBpthwkC7U1Gpx4S1zQhHYPJoQsIhNRHKw5Kx7POxqjgqqm5KxKKxXVX/exec")
 b=A.ai(["Content-Type","application/json","X-Requested-With","XMLHttpRequest"],d,d)
 s=11
 return A.P(A.aR6(c,B.e9.mA(A.ai(["date",a2,"time",a3,"coach",l,"hall",B.i.k(a6)],d,d)),b),$async$pe)
